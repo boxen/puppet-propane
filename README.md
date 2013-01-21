@@ -1,8 +1,8 @@
 # Propane Puppet Module for Boxen
 
-[![Build Status](https://travis-ci.org/boxen/puppet-airfoil.png)](https://travis-ci.org/boxen/puppet-airfoil)
+[![Build Status](https://travis-ci.org/boxen/puppet-propane.png)](https://travis-ci.org/boxen/puppet-propane)
 
-Installs Propane App
+Installs Propane App.
 
 ## Usage
 
