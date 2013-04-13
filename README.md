@@ -1,6 +1,8 @@
 # Propane Puppet Module for Boxen
 
-Installs Propane App. License not included.
+[![Build Status](https://travis-ci.org/boxen/puppet-airfoil.png)](https://travis-ci.org/boxen/puppet-airfoil)
+
+Installs Propane App
 
 ## Usage
 
